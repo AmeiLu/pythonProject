@@ -1,6 +1,7 @@
 # pythonProject
 在编写Python项目中···
 
+'''
 import torch
 from torch.utils.data import DataLoader
 
@@ -248,3 +249,4 @@ def select_full_volume_for_infer(args, path='.././datasets'):
 
     print("DATA SAMPLES HAVE BEEN GENERATED SUCCESSFULLY")
     return loader.full_volume, loader.affine
+'''
